@@ -24,8 +24,8 @@ For this project, the dataset was filtered to:
 
 ### Project Files
 
-- [Interactive Excel Workbook] https://docs.google.com/spreadsheets/d/1OqX55stIbl_oSMHUm6q1Rs0v4o5HOYFf/edit?usp=drive_link&ouid=113029233647282482553&rtpof=true&sd=true
-- [Raw CFPB Data Used for This Project] https://drive.google.com/file/d/1bOd82eBP--E7AWVuMIMfsiuU5S-A4KSh/view?usp=sharing
+- [Interactive Excel Workbook](excel/credit_card_consumer_complaints_analysis.xlsx)
+- Dashboard preview available below
 
 ---
 
@@ -129,7 +129,7 @@ The dashboard can be filtered by:
 
 ## Dashboard Preview
 
-![Credit Card Consumer Complaints Dashboard](images/credit_card_complaints_dashboard.png)
+![Credit Card Consumer Complaints Dashboard](credit_card_complaints_dashboard.png)
 
 ---
 
@@ -179,5 +179,6 @@ A major learning from this project was:
 credit-card-consumer-complaints-analysis/
 │
 ├── README.md
-└── images/
-    └── credit_card_complaints_dashboard.png
+├── excel/
+│   └── credit_card_consumer_complaints_analysis.xlsx
+└── credit_card_complaints_dashboard.png
