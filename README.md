@@ -24,7 +24,7 @@ For this project, the dataset was filtered to:
 
 ### Project Files
 
-- [Interactive Excel Workbook]([Download Excel Workbook](excel/credit_card_consumer_complaints_analysis%20%281%29.xlsx))
+-[Download Interactive Excel Workbook](excel/credit_card_consumer_complaints_analysis.xlsx)
 - Dashboard preview available below
 
 ---
